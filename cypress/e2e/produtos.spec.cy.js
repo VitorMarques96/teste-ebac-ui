@@ -30,4 +30,8 @@ describe('Funcionalidade página de produtos', () => {
         cy.get('.woocommerce-message').should('contain', quantidade + ' × “Atlas Fitness Tank” foram adicionados no seu carrinho.')
     });
 
+    it('Deve adicionar produtos ao carrinho usando comandos customizados', () => {
+        cy.addProdutos('Atlas Fitness Tank', 'M', 2)
+    });
+
 });
