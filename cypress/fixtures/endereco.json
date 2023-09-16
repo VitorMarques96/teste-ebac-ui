@@ -1,0 +1,43 @@
+[
+    { 
+        "nome": "Maurício",
+        "sobrenome": "Filho",
+        "empresa": "Empresa 1",
+        "endereco": "Rua 1 Quadra 1",
+        "numero": "101",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "11111-111",
+        "telefone": "1111-1111",
+        "email": "emailteste01@ebac.com"
+    },
+
+    {
+        "nome": "Rafael",
+        "sobrenome": "Lázaro",
+        "empresa": "Empresa 2",
+        "endereco": "Rua 2 Quadra 2",
+        "numero": "201",
+        "pais": "Brasil",
+        "cidade": "Rio de Janeiro",
+        "estado": "Rio de Janeiro",
+        "cep": "22222-222",
+        "telefone": "2222-2222",
+        "email": "emailteste02@ebac.com"
+    },
+
+    {
+        "nome": "Lisa",
+        "sobrenome": "Açores",
+        "empresa": "Empresa 3",
+        "endereco": "Rua 3 Quadra 3",
+        "numero": "301",
+        "pais": "Brasil",
+        "cidade": "Goiânia",
+        "estado": "Goiás",
+        "cep": "33333-333",
+        "telefone": "3333-3333",
+        "email": "emailteste03@ebac.com"
+    }
+]
