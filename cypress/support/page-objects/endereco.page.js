@@ -17,9 +17,9 @@ class EnderecoPage {
         cy.get('.button').click()
     }
 
-    editarEnderecoEntrega () {
+    //editarEnderecoEntrega () {
         //Elementos + Ações
-    } 
+    //} 
 
 }
 
